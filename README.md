@@ -6,7 +6,7 @@ Alberto Manser
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 23.8.2022 | 0.0.1   |  Angefangen mit der Projekt dokumentation                |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -33,7 +33,7 @@ Alberto Manser
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Zahl ist generiert | Zahl innerhalb der Range | richtig / falsch, grösser oder kleiner |
 | 2.1  | Zahl ist generiert | Zahl ausserhalb Range | Zahl nicht innerhalb der Range, bitte geben sie eine Zahl zwischen 1 und 100 an |
-| 4.1  | Andere Schwierigkeit eingegeben | Zahl innerhalb neuer Range | richtig /falsch, grösser oder kleiner |
+| 4.1  | Andere Schwierigkeit eingegeben | Zahl innerhalb neuer Range | richtig /falsch, grösser oder kleiner |z
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -47,8 +47,11 @@ Alberto Manser
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |       |  Alberto  |  RNG & eingabefeld & raten mit Rückgabe | 30 min        |
+| 2.A  |       |  Alberto  | Bei falschen Inputs eine Rückmeldung geben | 20 min              |
+| 4.A  |       |  ALberto  | Vor dem generieren Fragen in welcher vorgesetzter Range die Zahl sein soll | 45 min |
+| 3.A  |       |  Alberto  | Simples Design |20 min |
+
 
 Total: 
 
@@ -65,7 +68,7 @@ Total:
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 2.A  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
