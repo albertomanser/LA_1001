@@ -7,7 +7,7 @@ Alberto Manser
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.8.2022 | 0.0.1   |  Angefangen mit der Projekt dokumentation                |
-|       | ...     |                                                              |
+| 30.8.2022 | o.o.2   |  Fast alle arbeitpakete durchgeführt, auser 3.A          |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -48,7 +48,7 @@ Alberto Manser
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       |  Alberto  |  RNG & eingabefeld & raten mit Rückgabe | 30 min        |
-| 2.A  |       |  Alberto  | Bei falschen Inputs eine Rückmeldung geben | 20 min              |
+| 2.A  |       |  Alberto  |  BEi Falschem input rückmeldung geben | 20 min              |
 | 4.A  |       |  ALberto  | Vor dem generieren Fragen in welcher vorgesetzter Range die Zahl sein soll | 45 min |
 | 3.A  |       |  Alberto  | Simples Design |20 min |
 
@@ -67,8 +67,10 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| 2.A  |       |           |               |                   |
+| 1.A  | 30 .8.2022   | Alberto        |  30min             | 40 min               |
+| 2.A  | 30.8.2022    | Alberto        |  20min             | 10 min               |
+| 3.A  |              | Alberto        |  20min             |                      |
+| 4.A  | 30.8.2022    | Alberto        |  45 min            | 20 min               |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
