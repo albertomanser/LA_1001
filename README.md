@@ -33,7 +33,7 @@ Alberto Manser
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Zahl ist generiert | Zahl innerhalb der Range | richtig / falsch, grösser oder kleiner |
 | 2.1  | Zahl ist generiert | Zahl ausserhalb Range | Zahl nicht innerhalb der Range, bitte geben sie eine Zahl zwischen 1 und 100 an |
-| 4.1  | Andere Schwierigkeit eingegeben | Zahl innerhalb neuer Range | richtig /falsch, grösser oder kleiner |z
+| 4.1  | Andere Schwierigkeit eingegeben | Zahl innerhalb neuer Range | richtig /falsch, grösser oder kleiner |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -69,7 +69,7 @@ Total:
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  | 30 .8.2022   | Alberto        |  30min             | 40 min               |
 | 2.A  | 30.8.2022    | Alberto        |  20min             | 10 min               |
-| 3.A  |              | Alberto        |  20min             |                      |
+| 3.A  | 6.9.2022     | Alberto        |  20min             | 5  min               |
 | 4.A  | 30.8.2022    | Alberto        |  45 min            | 20 min               |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
