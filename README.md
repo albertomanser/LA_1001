@@ -8,7 +8,7 @@ Alberto Manser
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.8.2022 | 0.0.1   |  Angefangen mit der Projekt dokumentation                |
 | 30.8.2022 | o.o.2   |  Fast alle arbeitpakete durchgeführt, auser 3.A          |
-|       | 1.0.0   |                                                              |
+| 6.9.2022  | 1.0.0   |  Alle arbeitpakete durchgeführt.                         |
 
 ## 1 Informieren
 
@@ -33,6 +33,8 @@ Alberto Manser
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Zahl ist generiert | Zahl innerhalb der Range | richtig / falsch, grösser oder kleiner |
 | 2.1  | Zahl ist generiert | Zahl ausserhalb Range | Zahl nicht innerhalb der Range, bitte geben sie eine Zahl zwischen 1 und 100 an |
+| 2.2  | Zahl ist generiert | Buchstaben anstatt Zahlen eingeben | Falsche eingabe, geben sie eine Zahl ein |
+| 2.3  | Range muss eingegeben werden | Buchstaben eingeben | Falsche eingabe, Geben sie eine Zahl ein |
 | 4.1  | Andere Schwierigkeit eingegeben | Zahl innerhalb neuer Range | richtig /falsch, grösser oder kleiner |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
@@ -80,8 +82,11 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  13.9.2022 | Ihre Zahl ist zu klein, Ihre Zahl ist zu gross | Alberto |
+| 2.1  | 13.9.2022  | Falsche eingabe, geben sie bitte eine korrekte Zahl ein | Alberto |
+| 2.2  | 13.9.2022  | Falsche eingabe, geben sie bitte eine korrekte Zahl ein | Alberto |
+| 2.3  | 13.9.2022  | Falsche eingabe, geben sie bitte eine korrekte Zahl ein | Alberto |
+| 4.1  | 13.9.2022  | Ihre Zahl ist zu klein, Ihre Zahl ist zu gross | Alberto |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
