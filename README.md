@@ -94,8 +94,8 @@ Total:
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| I    |     Die gesuchte Zahl wurde erraten         |    "false"     |       Programm beendet sich   |      "Wollen Sie nocheinmal spielen?"                |
+| II  |   Als maximale Zahl wurde -100 eingetragen, anschliessend kann die Zahl erraten werden     |   Es wurde -10 eingetragen |  "Die gesuchte Zahl ist grösser/kleiner als die eingegebene Zahl | "Falsche Eingabe", es kann erneut eine maximale Zahl gewählt werden  |
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
